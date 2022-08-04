@@ -1,16 +1,16 @@
-# 🚧 README em construção 🚧
+# One for All (MySQL)
 
-<!-- Olá, Tryber!
+## Introduction
+In this project, we had to normalize a database, create the commands to restore it in MySQL and, in addition, develop a series of queries with different levels of complexity to extract insights from within it.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Main used technologies:
+MySQL
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Instructions to utilize the application
+To use the SQL commands developed here, you must have MySQL installed. To restore the database, you must run the query on the first challenge file (`desafio1.sql`) uploaded to this repository.
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+## Commit history
+You can check the entire commit history to see how the project was developed step by step.
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+## Contact
+You can get in touch with me at pedronerislc@gmail.com or by <a href="https://www.linkedin.com/in/pedro-nl-caldas/">Linkedin</a>.
